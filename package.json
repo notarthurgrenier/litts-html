@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/arthur.grenier@proton.me.litts-l7iqszk9",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve KnHTRcvLqORkSvAIuS3G --open"
+  },
+  "dependencies": {}
+}
